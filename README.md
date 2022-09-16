@@ -1,5 +1,5 @@
 # Personal-Projects
-Projects i have built with my skills
+Projects i have built with what i learned
 
 (1) Task Assistant:
 
